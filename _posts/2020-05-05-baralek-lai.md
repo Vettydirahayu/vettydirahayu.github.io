@@ -9,7 +9,7 @@ tags:
 - nikah
 image: https://vettydirahayu.github.io/uploads/SDXFGEWSDFE.jpg
 description: ''
-featured: false
+featured: true
 hidden: false
 rating: 3
 
