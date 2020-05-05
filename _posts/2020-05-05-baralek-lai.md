@@ -13,7 +13,6 @@ hidden: false
 rating: 3
 
 ---
-![](https://vettydirahayu.github.io/uploads/SDXFGEWSDFE.jpg)
 
 baralek
 
