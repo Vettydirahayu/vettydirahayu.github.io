@@ -1,9 +1,9 @@
 # Site
-name: ""
+name: "Vettydirahayu"
 title: "Home"
 description: ""
 logo: 'assets/images/logo.PNG'
-favicon: 'favicon.ico'
+favicon: 'assets/images/logo.PNG'
 baseurl: ''
 google_analytics: ''
 disqus: 'https-vettydirahayu-github-io'
