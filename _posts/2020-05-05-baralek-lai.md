@@ -3,9 +3,10 @@ layout: post
 title: baralek lai
 author: admin
 categories:
-- kesehatan
+- baralek
 tags:
-- gigi
+- yuk
+- nikah
 image: https://vettydirahayu.github.io/uploads/SDXFGEWSDFE.jpg
 description: ''
 featured: false
