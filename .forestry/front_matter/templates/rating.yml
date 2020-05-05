@@ -33,5 +33,5 @@ fields:
   name: rating
   label: rating
 pages:
+- _posts/2020-05-05-baralek-lai.md
 - _posts/2020-05-05-review.md
-- _posts/baralek-lai.md
