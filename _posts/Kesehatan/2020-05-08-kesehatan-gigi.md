@@ -8,7 +8,7 @@ tags:
 - kedokteran gigi
 - gigi
 - kesehatan
-image: ''
+image: https://vettydirahayu.github.io/uploads/inlay-onlay2.jpg
 description: ''
 featured: true
 hidden: false
