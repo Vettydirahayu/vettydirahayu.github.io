@@ -21,11 +21,13 @@ Tujuan inlay ini dibuat bila kavitas tidak bisa direstorasi langsung dengan resi
 Restorasi ini bersifat non plastis dan dibuat khusus oleh laboratorium tekniker gigi, dengan sebelumnya gigi yang telah dipreparasi dibuatkan cetakannya oleh dokter gigi.
 
 Indikasi Inlay adalah:
+
 * Kavitas kecil / karies proksimal lebar
 * Boleh mengenai bagian (oklusal-distal, distal-oklusal, mesial-oklusal) atau (mesial-oklusal-distal) tapi tidak mengenai cups.
 * Mengembalikan estetik pada restorasi gigi posterior yang mengalami kerusakan akibat adanya karies sekunder.
 
 Kontra indikasi inlay:
+
 * Frekuensi karis tinggi
 * OH pasien jelek
 
@@ -34,24 +36,27 @@ Inlay : kavitasnya luas, tidak mengenai cups
 Onlay : kavitasnya besar, mengenai cups 1/ lebih.
 
 Manfaat lain dari inlay dan onlay dibandingkan dengan tambalan lainnyadalah:
-*  Inlay dan bersifat tahan lama, terbuat dari bahan yang kuat bertahan hingga 30 tahun (pada pemakaian normal dan dengan pemeliharaan sehari-hari yang optimal).
-*  Inlay dan onlay  membantu memperkuat gigi hingga 75 persen, tidak seperti tambalan logam tradisional yang sebenarnya bisa mengurangi kekuatan gigi hingga 50 persen.
+
+* Inlay dan bersifat tahan lama, terbuat dari bahan yang kuat bertahan hingga 30 tahun (pada pemakaian normal dan dengan pemeliharaan sehari-hari yang optimal).
+* Inlay dan onlay  membantu memperkuat gigi hingga 75 persen, tidak seperti tambalan logam tradisional yang sebenarnya bisa mengurangi kekuatan gigi hingga 50 persen.
 * Inlay dan onlay memperpanjang masa pakai gigi dan mencegah perlunya perawatan gigi yang lebih rumit di masa depan.
 
 Alat dan Bahan yang digunakan:
 
 Alat:
+
 * Alat standar diagnosis
-*  High speed
+* High speed
 * Bur dengan masing-masing kegunaan
 * Cotton pellet.
 
 Bahan:
+
 * Emas, wax, orden
-*  Wax compound
+* Wax compound
 * Alginate
-* Gips  tipe 3
-* Gips stone tipe 4
+* Gips stone  tipe 3
+* Hard stone tipe 4
 
 Cara kerja:
 
