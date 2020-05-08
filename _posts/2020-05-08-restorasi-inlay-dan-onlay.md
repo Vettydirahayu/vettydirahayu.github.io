@@ -5,6 +5,8 @@ author: admin
 categories:
 - Kesehatan
 tags:
+- onlay
+- inlay
 - gigi
 - kesehatan
 image: https://vettydirahayu.github.io/uploads/inlay-onlay2.jpg
