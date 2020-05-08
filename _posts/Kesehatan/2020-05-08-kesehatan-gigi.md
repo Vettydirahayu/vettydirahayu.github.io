@@ -15,8 +15,6 @@ hidden: false
 rating: 5
 
 ---
-**Restorasi Inlay / Onlay**
-
 
 Inlay atau onlay gigi adalah restorasi indirek  (dibuat di luar mulut)  digunakan untuk memperbaiki gigi belakang dengan kerusakan ringan sampai sedang atau pada kasus gigi fraktur yang kerusakannya belum sangat parah yang membutuhkan mahkota pengganti.
 
