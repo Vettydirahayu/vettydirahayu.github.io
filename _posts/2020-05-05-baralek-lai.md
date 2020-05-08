@@ -14,7 +14,6 @@ hidden: false
 rating: 3
 
 ---
-
 baralek
 
 baralek
