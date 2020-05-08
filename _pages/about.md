@@ -8,11 +8,8 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p> - fhbfhhf </p>
-<p> - drg </p>
-<p> - balbla </p>
-<p> - dsasdas </p>
-<p> - dasdasdsa </p>
+<p> Hai, Aku Vetty Dira Hayu.</p>
+<p> Selamat datang di blog aku, blog ini bertujuan untuk berbagi informasi menarik dan bermanfaat untuk pembaca dan orang lain. </p>
 
 <p> email </p>
 
