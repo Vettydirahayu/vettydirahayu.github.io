@@ -11,7 +11,7 @@ comments: false
 <p> Hai, Aku Vetty Dira Hayu.</p>
 <p> Selamat datang di blog aku, blog ini bertujuan untuk berbagi informasi menarik dan bermanfaat untuk pembaca dan orang lain. </p>
 
-<p> email </p>
+
 
 </div>
 </div>
