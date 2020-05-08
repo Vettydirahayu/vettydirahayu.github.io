@@ -2,8 +2,8 @@
 name: "Vettydirahayu"
 title: "Home"
 description: ""
-logo: 'assets/images/logo.PNG'
-favicon: 'assets/images/logo.PNG'
+logo: 'favicon.ico'
+favicon: 'favicon.ico'
 baseurl: ''
 google_analytics: ''
 disqus: 'https-vettydirahayu-github-io'
