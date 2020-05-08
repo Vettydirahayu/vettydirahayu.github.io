@@ -2,7 +2,8 @@
 layout: post
 title: cinta suci
 author: admin
-categories: []
+categories:
+- Cinta
 tags: []
 image: ''
 description: ''
