@@ -5,7 +5,7 @@ description: ""
 logo: 'favicon.ico'
 favicon: 'favicon.ico'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-165988248-1'
 disqus: 'https-vettydirahayu-github-io'
 mailchimp-list: ''
 include: ["_pages"]
