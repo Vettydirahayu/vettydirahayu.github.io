@@ -7,7 +7,7 @@ tags:
 - indirect
 - direct
 - pulp capping
-image: ''
+image: https://vettydirahayu.github.io/uploads/image0.jpg
 description: ''
 featured: false
 hidden: false
