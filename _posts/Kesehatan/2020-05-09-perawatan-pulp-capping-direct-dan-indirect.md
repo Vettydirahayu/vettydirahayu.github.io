@@ -16,16 +16,17 @@ rating:
 ---
 Pulp capping merupakan perawatan untuk perlindungan jaringan pulpa dari iritasi kimia, elektrik, termal, dan mekanisme yang membahayakan vitalitas pulpa dengan pemberian bahan proteksi pulpa/ bahan kaping pulpa pada gigi.
 
-Macam2 pulp capping:
 
+Macam2 pulp capping:
 * Indirect Pulp capping : masih ada selapis tipis dentin dan tidak ada inflamasi pulpa (gejala pulpitis reversible).
 * Direct pulp capping :pulpa terbuka <2mm dan tidak ada inflamasi pulpa irreversible, exposure akibat trauma <24jam.
 
-Tujuannya:
 
+Tujuannya:
 * Untuk mempertahankan vitalitas pulpa
 * Mencegah inflamasi pulpa akibat bakteri dan iritan-iritan yang mengiritasi pulpa secara langsung maupun tidak langsung (melalui tubuli dentin)
 * Merangsang pembentukan dentin reparative.
+
 
 Indikasi pulp capping direct:
 1\. Dilakukan pada gigi dengan pula yang terbuka karena factor mekanis misalnya terjadi perforasi pada waktu pengeboran sehingga terjadi pendarahan dan timbul rasa nyeri (kesalahan operator/ istrogenik.
@@ -34,9 +35,11 @@ Indikasi pulp capping direct:
 4\. Pada gigi dengan pulpa terbuka karena trauma yang mengakibatkan tanduk pulpa sedikit terbuka, sehingga terjadi pendarahan dan timbul rasa nyeri.
 5\. Tidak ada inflamasi dan belum terkontaminasi saliva (jika sudah dilakukan pulpektomi)
 
+
 Indikasi pulp capping indirect:
 1\. Pada gigi pulpitis reversible dengan pulpa yang belum terbuka (selapis tipis dentin).
 2\. Tidak ada inflamasi pulpa
+
 
 Kontra indikasi pulp capping direct:
 1\. Terbukti sudah pulpiitis irreversible
@@ -50,7 +53,6 @@ Kontra indikasi pulp capping indirect:
 Terbukti sudah pulpiitis irreversible
 
 Persiapan alat dan bahan:
-
 a. Alat:
 1\. Alat standar diagnostig
 2\. Eskavator
@@ -85,4 +87,4 @@ Prosedur kerja pulp capping indirect:
 7\. Evaluasi/ contoh setelah 2 minggu
 8\. Apabila sudah tidak sakit dan gigi tetap vital maka dapat dilakukan tambalan permanent.
 
-Terima kasih, kritik dan saran silahkan di kolom komentar. 
+Terima kasih, kritik dan saran silahkan di kolom komentar.
