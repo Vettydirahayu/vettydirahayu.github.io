@@ -144,3 +144,7 @@ c. Pelanggaran disiplin
 d. Pelanggaran pidana
 
 e. Pelanggaran profesi
+
+Untuk uji kemampuan kamu, kamu boleh mengikuti test ujian gratis dengan klik tombol dibawah ini:
+
+[https://forms.gle/opPcPopSBJi4zvzVA](https://forms.gle/opPcPopSBJi4zvzVA "https://forms.gle/opPcPopSBJi4zvzVA")
