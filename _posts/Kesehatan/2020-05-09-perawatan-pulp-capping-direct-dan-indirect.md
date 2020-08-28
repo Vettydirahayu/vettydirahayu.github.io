@@ -11,7 +11,7 @@ image: https://vettydirahayu.github.io/uploads/image0.jpg
 description: ''
 featured: false
 hidden: false
-rating: 
+rating: 5
 
 ---
 Pulp capping merupakan perawatan untuk perlindungan jaringan pulpa dari iritasi kimia, elektrik, termal, dan mekanisme yang membahayakan vitalitas pulpa dengan pemberian bahan proteksi pulpa/ bahan kaping pulpa pada gigi.
