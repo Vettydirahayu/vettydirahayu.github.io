@@ -2,7 +2,8 @@
 layout: post
 title: 'Soal UKMP2DG CBT agustus 2015 '
 author: admin
-categories: []
+categories:
+- kesehatan
 tags:
 - soal ukmp fkg 2015
 - soal ukmp2dg
