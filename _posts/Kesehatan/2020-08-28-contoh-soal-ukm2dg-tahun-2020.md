@@ -2,7 +2,8 @@
 layout: post
 title: Contoh soal UKM2DG tahun 2020
 author: admin
-categories: []
+categories:
+- kesehatan
 tags:
 - soal ukmp2dg tahun 2020
 - soal ukmp3dg
